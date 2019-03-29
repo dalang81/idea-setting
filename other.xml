@@ -1,0 +1,30 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="8.6.0" last-modified="1506430914000" />
+    </local-interpreter>
+  </component>
+  <component name="RecentTaskRepositories">
+    <Redmine shared="false" url="http://10.27.145.89:82">
+      <option name="APIKey" value="" />
+      <option name="assignedToMe" value="true" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="currentProject">
+        <RedmineProject id="119" identifier="hais_shfddxfszsyyxmzbsdsr" />
+      </option>
+      <password>dfe6dfc3dfc6dfc3dfcbdfc4df9cdf9bdf9e</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>wukai@lilianinfo.com</username>
+    </Redmine>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+  </component>
+</application>
