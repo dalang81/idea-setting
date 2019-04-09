@@ -4,7 +4,7 @@
     <property name="created">2017-10-17T09:58:42</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2019-03-15T10:44:45</property>
+    <property name="modified">2019-04-09T11:09:16</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -18,6 +18,15 @@
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <colors>
+    <option name="FILESTATUS_COPIED" value="629755" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+  </colors>
   <attributes>
     <option name="COFFEESCRIPT.JAVASCRIPT_CONTENT">
       <value>
