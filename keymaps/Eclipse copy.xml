@@ -6,6 +6,9 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="t" />
+  </action>
   <action id="PublishGroup.UploadTo" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="alt f" />
