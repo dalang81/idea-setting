@@ -2,4 +2,9 @@
   <component name="BaseRefactoringSettings">
     <option name="SAFE_DELETE_WHEN_DELETE" value="false" />
   </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+  </component>
 </application>
