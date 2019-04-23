@@ -12,6 +12,7 @@
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="t" />
   </action>
+  <action id="IntroduceTypeAlias" />
   <action id="PublishGroup.UploadTo" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="alt f" />
@@ -21,6 +22,9 @@
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
   </action>
   <action id="ShowProjectStructureSettings" />
   <action id="TodoViewGroupByFlattenPackage" />
