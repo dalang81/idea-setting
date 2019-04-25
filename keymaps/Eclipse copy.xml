@@ -9,7 +9,7 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
-  <action id="GotoTest"> 
+  <action id="GotoTest">
     <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="t" />
   </action>
   <action id="IntroduceTypeAlias" />
@@ -26,7 +26,9 @@
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="shift ctrl alt a" />
   </action>
-  <action id="ShowProjectStructureSettings" />
+  <action id="ShowProjectStructureSettings">
+    <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="p" />
+  </action>
   <action id="TodoViewGroupByFlattenPackage" />
   <action id="UpdateFiles">
     <keyboard-shortcut first-keystroke="shift ctrl alt x" />
