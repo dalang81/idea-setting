@@ -1,0 +1,5 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+</keymap>
