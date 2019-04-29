@@ -1,4 +1,4 @@
-<keymap version="1" name="Eclipse copy" parent="Eclipse">
+<keymap version="1" name="kaka" parent="Eclipse">
   <action id="ActivateMavenProjectsToolWindow">
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
