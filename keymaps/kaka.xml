@@ -26,6 +26,11 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="t" />
   </action>
