@@ -16,10 +16,14 @@
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="ctrl alt q" second-keystroke="c" />
   </action>
-  <action id="CopyReference" />
+  <action id="CopyPaths" />
+  <action id="CopyReference">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
   <action id="CreateResourceBundle">
     <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>
+  <action id="DatabaseView.CopyDdlAction" />
   <action id="EditorToggleColumnMode">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
