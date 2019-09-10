@@ -31,7 +31,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="by" value="// bywukai $date$ $time$ $END$" description="" toReformat="false" toShortenFQNames="true">
+  <template name="bywukai" value="// bywukai $END$ $date$ $time$ " description="" toReformat="false" toShortenFQNames="true">
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
     <context>
