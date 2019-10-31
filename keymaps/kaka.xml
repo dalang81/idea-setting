@@ -47,6 +47,9 @@
   </action>
   <action id="IntroduceFunctionalParameter" />
   <action id="MethodHierarchy" />
+  <action id="ModuleSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt q" second-keystroke="m" />
+  </action>
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="o" />
   </action>
