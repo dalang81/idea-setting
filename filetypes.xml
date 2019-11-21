@@ -6,6 +6,8 @@
       <mapping pattern="qa" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="xml----" type="PLAIN_TEXT" />
+      <mapping ext="lic" type="PLAIN_TEXT" />
+      <mapping ext="store" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
