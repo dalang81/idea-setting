@@ -1,5 +1,7 @@
 <application>
   <component name="GeneralSettings">
+    <option name="autoSaveIfInactive" value="true" />
+    <option name="inactiveTimeout" value="10" />
     <option name="autoSaveFiles" value="false" />
     <option name="searchInBackground" value="true" />
     <option name="showTipsOnStartup" value="false" />
@@ -17,5 +19,6 @@
     <entry key="win.editor.thumb.default.fill.max" value="150" />
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
+    <entry key="compiler.automake.allow.when.app.running" value="true" />
   </component>
 </application>
