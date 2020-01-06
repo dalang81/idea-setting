@@ -16,6 +16,9 @@
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="ctrl alt q" second-keystroke="c" />
   </action>
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
   <action id="CopyPaths" />
   <action id="CopyReference">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
@@ -32,6 +35,7 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
+  <action id="FindNext" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoSuperMethod">
