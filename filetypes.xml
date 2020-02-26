@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="dat" type="Native" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="prod" type="PLAIN_TEXT" />
       <mapping pattern="qa" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
