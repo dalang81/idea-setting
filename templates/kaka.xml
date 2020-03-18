@@ -47,7 +47,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="println" value="out(&quot;$className$ $methodName$ $var$:{} $END$&quot;, $var$);" toReformat="false" toShortenFQNames="true">
+  <template name="println" value="out(&quot;$className$ $methodName$ $var$:{} $END$&quot;, $var$);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="className" expression="className()" defaultValue="" alwaysStopAt="true" />
     <variable name="methodName" expression="methodName()" defaultValue="" alwaysStopAt="true" />
     <variable name="var" expression="clipboard()" defaultValue="" alwaysStopAt="false" />
