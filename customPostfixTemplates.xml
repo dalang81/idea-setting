@@ -198,7 +198,6 @@
                   <option name="file" value="${PLUGIN}\scala\xylo.kantan.postfixTemplates" />
                 </VFile>
                 <VFile>
-                  <option name="enabled" value="true" />
                   <option name="id" value="xylo.scala-arm" />
                   <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/scala/scala-arm.postfixTemplates" />
                   <option name="file" value="${PLUGIN}\scala\xylo.scala-arm.postfixTemplates" />
@@ -209,7 +208,6 @@
                   <option name="file" value="${PLUGIN}\scala\xylo.commons-logging.postfixTemplates" />
                 </VFile>
                 <VFile>
-                  <option name="enabled" value="true" />
                   <option name="id" value="xylo.JavaFX" />
                   <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/scala/javafx.postfixTemplates" />
                   <option name="file" value="${PLUGIN}\scala\xylo.JavaFX.postfixTemplates" />
