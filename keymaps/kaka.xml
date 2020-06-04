@@ -1,4 +1,10 @@
 <keymap version="1" name="kaka" parent="Eclipse">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="g" />
+  </action>
+  <action id="$ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="f" />
+  </action>
   <action id="ActivateMavenProjectsToolWindow">
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
@@ -39,6 +45,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt d" second-keystroke="c" />
   </action>
   <action id="DumpLookupElementWeights" />
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="g" />
+  </action>
+  <action id="Editor ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="f" />
+  </action>
   <action id="EditorToggleColumnMode">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
