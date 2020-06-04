@@ -1,4 +1,10 @@
 <keymap version="1" name="kaka" parent="Eclipse">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="g" />
+  </action>
+  <action id="$ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="f" />
+  </action>
   <action id="ActivateMavenProjectsToolWindow">
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
@@ -22,6 +28,7 @@
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="ctrl alt q" second-keystroke="c" />
   </action>
+  <action id="Console.TableResult.CloneColumn" />
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
@@ -34,7 +41,16 @@
   </action>
   <action id="DatabaseView.CopyDdlAction" />
   <action id="Diagram.DeselectAll" />
+  <action id="Docker.AddDockerConnection">
+    <keyboard-shortcut first-keystroke="shift ctrl alt d" second-keystroke="c" />
+  </action>
   <action id="DumpLookupElementWeights" />
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="g" />
+  </action>
+  <action id="Editor ShowTranslationDialogAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="f" />
+  </action>
   <action id="EditorToggleColumnMode">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
@@ -71,6 +87,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="o" />
   </action>
   <action id="PublishGroup.UploadTo" />
+  <action id="RemoteServers.ConnectServer">
+    <keyboard-shortcut first-keystroke="shift ctrl alt d" second-keystroke="o" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
@@ -112,6 +131,7 @@
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
+  <action id="UML.ShowChanges" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="p" />
   </action>
