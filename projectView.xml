@@ -2,5 +2,6 @@
   <component name="ProjectViewSharedSettings">
     <option name="flattenModules" value="true" />
     <option name="flattenPackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
   </component>
 </application>
