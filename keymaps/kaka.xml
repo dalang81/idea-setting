@@ -8,6 +8,12 @@
   <action id="ActivateMavenProjectsToolWindow">
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
+  <action id="ActivateMyBatisLogToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" second-keystroke="o" />
+  </action>
+  <action id="ActivateMybatisdatasourceToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" second-keystroke="d" />
+  </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 9" />
   </action>
@@ -83,6 +89,9 @@
   <action id="ModuleSettings">
     <keyboard-shortcut first-keystroke="ctrl alt q" second-keystroke="m" />
   </action>
+  <action id="MyBatisLogPlugin">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" second-keystroke="l" />
+  </action>
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="o" />
   </action>
@@ -124,6 +133,9 @@
   </action>
   <action id="Synchronize">
     <keyboard-shortcut first-keystroke="shift ctrl alt w" />
+  </action>
+  <action id="TailMyBatisLog0">
+    <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="m" />
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="ctrl alt z" />
