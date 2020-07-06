@@ -31,6 +31,9 @@
   <action id="CombinePropertiesFilesAction">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
+  <action id="CommittedChanges.Revert">
+    <keyboard-shortcut first-keystroke="shift ctrl alt z" second-keystroke="r" />
+  </action>
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="ctrl alt q" second-keystroke="c" />
   </action>
