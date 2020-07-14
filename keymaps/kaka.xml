@@ -48,6 +48,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>
   <action id="DatabaseView.CopyDdlAction" />
+  <action id="DelegateMethods">
+    <keyboard-shortcut first-keystroke="shift ctrl alt i" second-keystroke="d" />
+  </action>
   <action id="Diagram.DeselectAll" />
   <action id="Docker.AddDockerConnection">
     <keyboard-shortcut first-keystroke="shift ctrl alt d" second-keystroke="c" />
@@ -72,6 +75,9 @@
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
   <action id="FindNext" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="shift ctrl alt i" second-keystroke="g" />
+  </action>
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="shift ctrl alt z" second-keystroke="l" />
   </action>
@@ -87,7 +93,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="s" />
   </action>
   <action id="ImplementMethods">
-    <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="i" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt i" second-keystroke="i" />
   </action>
   <action id="IntroduceFunctionalParameter" />
   <action id="MethodHierarchy" />
@@ -98,7 +104,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt o" second-keystroke="l" />
   </action>
   <action id="OverrideMethods">
-    <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="o" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt i" second-keystroke="o" />
   </action>
   <action id="PublishGroup.UploadTo" />
   <action id="RemoteServers.ConnectServer">
@@ -132,9 +138,7 @@
   <action id="ShowSettings" />
   <action id="Stop" />
   <action id="SurroundWith">
-    <keyboard-shortcut first-keystroke="shift alt z" />
-    <keyboard-shortcut first-keystroke="ctrl alt t" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="c" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt i" second-keystroke="s" />
   </action>
   <action id="Synchronize">
     <keyboard-shortcut first-keystroke="shift ctrl alt w" />
