@@ -1,14 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;hindex.log;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.classpath;.git;.hg;.idea;.mvn;.project;.settings;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="dat" type="Native" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="qa" type="PLAIN_TEXT" />
       <mapping pattern="prod" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="xml----" type="PLAIN_TEXT" />
       <mapping ext="lic" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="store" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
