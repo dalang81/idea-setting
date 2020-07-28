@@ -1,7 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="CANCEL" />
+      <item value="apply for" />
+      <item value="apply" />
+      <item value="申请" />
       <item value="politcs" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
 </application>
