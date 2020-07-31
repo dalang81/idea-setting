@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Busniess" />
+      <item value="isBusniess" />
       <item value="重新上传" />
       <item value="改进措施" />
       <item value="措施" />
@@ -15,7 +17,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
+        <entry key="CHINESE" value="2" />
         <entry key="ENGLISH" value="2" />
       </map>
     </option>
