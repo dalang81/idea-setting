@@ -107,6 +107,9 @@
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="t" />
   </action>
+  <action id="GsonFormat4DataBinding">
+    <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="j" />
+  </action>
   <action id="Gsonformat">
     <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="s" />
   </action>
