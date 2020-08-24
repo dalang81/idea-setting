@@ -17,6 +17,9 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 9" />
   </action>
+  <action id="ChangeSplitOrientation">
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" second-keystroke="c" />
+  </action>
   <action id="ChangesView.AddUnversioned" />
   <action id="ChangesView.Revert">
     <keyboard-shortcut first-keystroke="shift ctrl alt z" second-keystroke="r" />
@@ -136,6 +139,12 @@
   <action id="ModuleSettings">
     <keyboard-shortcut first-keystroke="ctrl alt q" second-keystroke="m" />
   </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" second-keystroke="d" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" second-keystroke="r" />
+  </action>
   <action id="MyBatisLogPlugin">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" second-keystroke="l" />
   </action>
@@ -143,6 +152,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt i" second-keystroke="o" />
   </action>
   <action id="PublishGroup.UploadTo" />
+  <action id="Refactorings.QuickListPopupAction" />
   <action id="RemoteServers.ConnectServer">
     <keyboard-shortcut first-keystroke="shift ctrl alt d" second-keystroke="o" />
   </action>
@@ -172,15 +182,27 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
   <action id="ShowSettings" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" second-keystroke="h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" second-keystroke="v" />
+  </action>
   <action id="Stop" />
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="shift ctrl alt i" second-keystroke="s" />
   </action>
   <action id="Synchronize">
-    <keyboard-shortcut first-keystroke="shift ctrl alt w" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" second-keystroke="w" />
   </action>
   <action id="TailMyBatisLog0">
     <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="m" />
+  </action>
+  <action id="TerminalSplitActionBase$Horizontal">
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" second-keystroke="z" />
+  </action>
+  <action id="TerminalSplitActionBase$Vertical">
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" second-keystroke="x" />
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="ctrl alt z" />
@@ -189,6 +211,12 @@
     <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
   <action id="UML.ShowChanges" />
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" second-keystroke="u" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" second-keystroke="a" />
+  </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl alt z" second-keystroke="p" />
   </action>
