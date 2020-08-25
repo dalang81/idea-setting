@@ -71,7 +71,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="install_bean" value="@Data&#10;@NoArgsConstructor(staticName = &quot;as&quot;)&#10;@ToString&#10;@EqualsAndHashCode&#10;@Accessors(chain = true)" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+  <template name="install_bean" value="@Data&#10;@NoArgsConstructor(staticName = &quot;as&quot;)&#10;@ToString&#10;@EqualsAndHashCode&#10;@Accessors(chain = true)" description="" toReformat="false" toShortenFQNames="true" useStaticImport="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
