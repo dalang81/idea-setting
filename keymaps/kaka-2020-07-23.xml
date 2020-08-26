@@ -139,6 +139,9 @@
   <action id="ModuleSettings">
     <keyboard-shortcut first-keystroke="ctrl alt q" second-keystroke="m" />
   </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl alt w" second-keystroke="o" />
+  </action>
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="shift ctrl alt w" second-keystroke="d" />
   </action>
