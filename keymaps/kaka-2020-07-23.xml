@@ -230,4 +230,22 @@
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
   <action id="ViewBreakpoints" />
+  <action id="tasks.close">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" second-keystroke="r" />
+  </action>
+  <action id="tasks.create.changelist">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" second-keystroke="c" />
+  </action>
+  <action id="tasks.edit">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" second-keystroke="e" />
+  </action>
+  <action id="tasks.goto">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" second-keystroke="o" />
+  </action>
+  <action id="tasks.open.in.browser">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" second-keystroke="b" />
+  </action>
+  <action id="tasks.switch">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" second-keystroke="s" />
+  </action>
 </keymap>
