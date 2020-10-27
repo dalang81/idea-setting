@@ -1,13 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="driver" />
+      <item value="SUFFIX" />
+      <item value="PREFIX" />
+      <item value="立刻" />
       <item value="抗菌药物" />
       <item value="LILIAN" />
       <item value="REPORT" />
       <item value="不存在" />
       <item value="入院日期" />
       <item value="prefix" />
-      <item value="SUFFIX" />
       <item value="SUFFER" />
       <item value="warpper" />
       <item value="Migrate" />
@@ -27,8 +30,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
