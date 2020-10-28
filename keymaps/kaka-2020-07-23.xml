@@ -40,6 +40,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt q" second-keystroke="c" />
   </action>
   <action id="Console.TableResult.CloneColumn" />
+  <action id="Console.TableResult.CompareCells" />
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
@@ -58,6 +59,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt i" second-keystroke="d" />
   </action>
   <action id="Diagram.DeselectAll" />
+  <action id="Diff.ShowSettingsPopup" />
   <action id="Docker.AddDockerConnection">
     <keyboard-shortcut first-keystroke="shift ctrl alt d" second-keystroke="c" />
   </action>
@@ -67,6 +69,9 @@
   </action>
   <action id="Editor ShowTranslationDialogAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="f" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="EditorToggleColumnMode">
     <keyboard-shortcut first-keystroke="alt c" />
@@ -228,6 +233,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
   <action id="UML.ShowChanges" />
+  <action id="Uml.ShowDiff" />
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift ctrl alt w" second-keystroke="u" />
   </action>
