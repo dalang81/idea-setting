@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="立即" />
+      <item value="imm" />
       <item value="driver" />
       <item value="SUFFIX" />
       <item value="PREFIX" />
@@ -30,8 +32,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="14" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
