@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="setting" />
+      <item value="cache" />
       <item value="business" />
       <item value="聚合" />
       <item value="is Empty" />
@@ -35,8 +37,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="18" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
