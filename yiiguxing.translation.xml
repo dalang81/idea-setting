@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SSO Client Webservice Impl" />
       <item value="setting" />
       <item value="cache" />
       <item value="business" />
@@ -38,7 +39,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="ENGLISH" value="19" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
