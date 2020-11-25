@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="default Parameter Map" />
       <item value="未测" />
       <item value="疑似" />
       <item value="camel To Snake" />
@@ -42,7 +43,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="ENGLISH" value="23" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
