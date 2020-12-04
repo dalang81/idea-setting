@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1052" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
