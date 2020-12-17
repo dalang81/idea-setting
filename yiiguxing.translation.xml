@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不可用的" />
+      <item value="Disable" />
       <item value="available" />
       <item value="availabe" />
       <item value="Credentials" />
@@ -47,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="28" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="30" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
