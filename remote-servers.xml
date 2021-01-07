@@ -1,8 +1,13 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="kaka-docker-service" type="docker">
+    <remote-server name="g.lilian-info.com:4446" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://g.lilian-info.com:4446" />
+        <option name="apiUrl" value="http://g.lilian-info.com:4446" />
+      </configuration>
+    </remote-server>
+    <remote-server name="kaka-service-docker-local" type="docker">
+      <configuration>
+        <option name="apiUrl" value="http://192.168.101.12:2375" />
       </configuration>
     </remote-server>
   </component>

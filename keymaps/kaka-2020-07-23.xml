@@ -39,6 +39,9 @@
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="ctrl alt q" second-keystroke="c" />
   </action>
+  <action id="CompileProject">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f5" />
+  </action>
   <action id="Console.TableResult.CloneColumn" />
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="ctrl k" />
@@ -145,7 +148,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt e" second-keystroke="v" />
   </action>
   <action id="InvalidateCaches">
-    <keyboard-shortcut first-keystroke="shift ctrl alt delete" second-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f6" />
   </action>
   <action id="MethodHierarchy" />
   <action id="ModuleSettings">
@@ -238,6 +241,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt z" second-keystroke="p" />
   </action>
   <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.RollbackChangedLines">
+    <keyboard-shortcut first-keystroke="shift ctrl alt z" second-keystroke="t" />
+  </action>
   <action id="Vcs.UpdateProject">
     <keyboard-shortcut first-keystroke="shift ctrl alt z" second-keystroke="u" />
   </action>

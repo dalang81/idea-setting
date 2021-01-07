@@ -1,11 +1,21 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不可用的" />
+      <item value="Disable" />
+      <item value="available" />
+      <item value="availabe" />
+      <item value="Credentials" />
+      <item value="HYPHEN" />
+      <item value="business" />
+      <item value="Fail" />
+      <item value="default Parameter Map" />
+      <item value="未测" />
+      <item value="疑似" />
       <item value="camel To Snake" />
       <item value="SSO Client Webservice Impl" />
       <item value="setting" />
       <item value="cache" />
-      <item value="business" />
       <item value="聚合" />
       <item value="is Empty" />
       <item value="立即" />
@@ -39,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="30" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
