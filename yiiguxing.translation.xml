@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Constructed" />
       <item value="统计" />
       <item value="Manual" />
       <item value="Direct" />
@@ -53,12 +54,12 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="ENGLISH" value="33" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616571968051" />
+    <option name="lastTrimTime" value="1618564636648" />
   </component>
 </application>
