@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="1049" />
     <option name="newTranslationDialogY" value="-610" />
     <histories>
+      <item value="常量" />
       <item value="省" />
       <item value="Provice" />
       <item value="Circle Point" />
@@ -53,7 +54,6 @@
       <item value="装弹" />
       <item value="CANCEL" />
       <item value="apply for" />
-      <item value="apply" />
     </histories>
     <option name="languageScores">
       <map>
