@@ -27,6 +27,7 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift ctrl alt z" second-keystroke="c" />
   </action>
+  <action id="CloseActiveTab" />
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
   </action>
@@ -67,6 +68,10 @@
   </action>
   <action id="Editor ShowTranslationDialogAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt q" second-keystroke="f" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorToggleColumnMode">
     <keyboard-shortcut first-keystroke="alt c" />
