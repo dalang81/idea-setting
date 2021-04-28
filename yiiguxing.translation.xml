@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1049" />
     <option name="newTranslationDialogY" value="-610" />
     <histories>
+      <item value="consume" />
       <item value="Code Address" />
       <item value="累加" />
       <item value="Scheduler" />
@@ -54,12 +55,11 @@
       <item value="抗菌药物" />
       <item value="LILIAN" />
       <item value="REPORT" />
-      <item value="不存在" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
