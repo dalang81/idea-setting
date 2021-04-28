@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1049" />
     <option name="newTranslationDialogY" value="-610" />
     <histories>
+      <item value="累加" />
       <item value="Scheduler" />
       <item value="Schedul" />
       <item value="Scheduling" />
@@ -54,7 +55,6 @@
       <item value="REPORT" />
       <item value="不存在" />
       <item value="入院日期" />
-      <item value="prefix" />
     </histories>
     <option name="languageScores">
       <map>
