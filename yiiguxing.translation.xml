@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1049" />
     <option name="newTranslationDialogY" value="-610" />
     <histories>
+      <item value="Code Address" />
       <item value="累加" />
       <item value="Scheduler" />
       <item value="Schedul" />
@@ -54,12 +55,11 @@
       <item value="LILIAN" />
       <item value="REPORT" />
       <item value="不存在" />
-      <item value="入院日期" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
