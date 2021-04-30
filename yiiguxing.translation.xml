@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1049" />
     <option name="newTranslationDialogY" value="-610" />
     <histories>
+      <item value="determine" />
       <item value="指标库" />
       <item value="急诊" />
       <item value="住院" />
@@ -54,7 +55,6 @@
       <item value="setting" />
       <item value="cache" />
       <item value="聚合" />
-      <item value="is Empty" />
     </histories>
     <option name="languageScores">
       <map>
