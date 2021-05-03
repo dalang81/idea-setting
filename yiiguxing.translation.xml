@@ -1,16 +1,31 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="1049" />
     <option name="newTranslationDialogY" value="-610" />
     <histories>
+      <item value="detect" />
+      <item value="dectet" />
+      <item value="检测" />
+      <item value="就检测" />
+      <item value="jiance" />
+      <item value="interval" />
+      <item value="inter" />
+      <item value="inter'" />
+      <item value="inte人" />
+      <item value="inte" />
+      <item value="int哦" />
+      <item value="int" />
+      <item value="频率" />
+      <item value="检测频率" />
+      <item value="检测平率" />
+      <item value="监测" />
       <item value="determine" />
       <item value="指标库" />
       <item value="急诊" />
       <item value="住院" />
       <item value="门诊" />
-      <item value="频率" />
       <item value="跑" />
       <item value="最低" />
       <item value="低" />
@@ -40,21 +55,6 @@
       <item value="Manual" />
       <item value="Direct" />
       <item value="不可用的" />
-      <item value="Disable" />
-      <item value="available" />
-      <item value="availabe" />
-      <item value="Credentials" />
-      <item value="HYPHEN" />
-      <item value="business" />
-      <item value="Fail" />
-      <item value="default Parameter Map" />
-      <item value="未测" />
-      <item value="疑似" />
-      <item value="camel To Snake" />
-      <item value="SSO Client Webservice Impl" />
-      <item value="setting" />
-      <item value="cache" />
-      <item value="聚合" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619403028413" />
+    <option name="lastTrimTime" value="1620003104362" />
   </component>
 </application>
