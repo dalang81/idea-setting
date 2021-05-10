@@ -26,5 +26,10 @@
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
+    <pattern icon="important" useCustomColors="true" pattern="important!!!">
+      <option name="FOREGROUND" value="c01815" />
+      <option name="FONT_TYPE" value="1" />
+      <option name="ERROR_STRIPE_COLOR" value="2d3aab" />
+    </pattern>
   </component>
 </application>
