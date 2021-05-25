@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1049" />
     <option name="newTranslationDialogY" value="-610" />
     <histories>
+      <item value="valid Standard" />
       <item value="辅助" />
       <item value="detect" />
       <item value="dectet" />
@@ -54,17 +55,16 @@
       <item value="Constructed" />
       <item value="统计" />
       <item value="Manual" />
-      <item value="Direct" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="ENGLISH" value="39" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621472101532" />
+    <option name="lastTrimTime" value="1621911852296" />
   </component>
 </application>
