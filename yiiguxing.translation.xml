@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1049" />
     <option name="newTranslationDialogY" value="-610" />
     <histories>
+      <item value="daily" />
       <item value="valid Standard" />
       <item value="辅助" />
       <item value="detect" />
@@ -54,12 +55,11 @@
       <item value="Circle Point" />
       <item value="Constructed" />
       <item value="统计" />
-      <item value="Manual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
