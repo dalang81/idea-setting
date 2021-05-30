@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1049" />
     <option name="newTranslationDialogY" value="-610" />
     <histories>
+      <item value="财年" />
+      <item value="年度" />
       <item value="daily" />
       <item value="valid Standard" />
       <item value="辅助" />
@@ -53,18 +55,16 @@
       <item value="省" />
       <item value="Provice" />
       <item value="Circle Point" />
-      <item value="Constructed" />
-      <item value="统计" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="41" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621911852296" />
+    <option name="lastTrimTime" value="1622361788996" />
   </component>
 </application>
