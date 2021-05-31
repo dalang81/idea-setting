@@ -18,7 +18,7 @@
     <option name="SET_EL_LINE" value="1" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="WITH_EL_WRAP" value="2" />
-    <option name="SELECT_EL_LINE" value="101" />
+    <option name="WITH_ALIGN_AS" value="true" />
     <option name="SELECT_EL_WRAP" value="2" />
     <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="4" />
     <option name="SELECT_USE_AS_WORD" value="1" />
@@ -88,7 +88,7 @@
     <option name="SET_EL_LINE" value="1" />
     <option name="SET_EL_WRAP" value="3" />
     <option name="WITH_EL_WRAP" value="2" />
-    <option name="SELECT_EL_LINE" value="101" />
+    <option name="WITH_ALIGN_AS" value="true" />
     <option name="SELECT_EL_WRAP" value="2" />
     <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="4" />
     <option name="SELECT_USE_AS_WORD" value="1" />
