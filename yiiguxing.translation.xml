@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="1049" />
-    <option name="newTranslationDialogY" value="-610" />
+    <option name="newTranslationDialogY" value="-632" />
     <histories>
+      <item value="publicize" />
+      <item value="advertise" />
+      <item value="inform" />
+      <item value="Report" />
+      <item value="上报" />
       <item value="Venereal" />
       <item value="财年" />
       <item value="年度" />
@@ -50,21 +55,16 @@
       <item value="爬取" />
       <item value="important" />
       <item value="import" />
-      <item value="region" />
-      <item value="Deprecated" />
-      <item value="常量" />
-      <item value="省" />
-      <item value="Provice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="43" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622361788996" />
+    <option name="lastTrimTime" value="1622803240295" />
   </component>
 </application>
