@@ -79,12 +79,12 @@
       <option name="SQL" value="true" />
     </context>
   </template>
-  <template name="off-formatter-xml" value="&lt;!-- @formatter:off --&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="off-formatter-xml" value="&lt;!-- @formatter:off --&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
   </template>
-  <template name="on-formatter-xml" value="&lt;!-- @formatter:on --&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="on-formatter-xml" value="&lt;!-- @formatter:on --&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="XML" value="true" />
     </context>
