@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1049" />
     <option name="newTranslationDialogY" value="-632" />
     <histories>
+      <item value="Schedule" />
       <item value="publicize" />
       <item value="advertise" />
       <item value="inform" />
@@ -54,17 +55,16 @@
       <item value="获取" />
       <item value="爬取" />
       <item value="important" />
-      <item value="import" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622803240295" />
+    <option name="lastTrimTime" value="1625022130473" />
   </component>
 </application>
