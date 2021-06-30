@@ -9,12 +9,6 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="logger" value="static final Logger log = LoggerFactory.getLogger($class$.class);" description="logger" toReformat="false" toShortenFQNames="true">
-    <variable name="class" expression="className()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
   <template name="log_debug" value="log.debug(&quot;$className$ $methodName$ $var$:{} $END$&quot;, $var$);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="className" expression="className()" defaultValue="" alwaysStopAt="true" />
     <variable name="methodName" expression="methodName()" defaultValue="" alwaysStopAt="true" />
@@ -83,6 +77,16 @@
       <option name="JAVA_CODE" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
       <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="off-formatter-xml" value="&lt;!-- @formatter:off --&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="on-formatter-xml" value="&lt;!-- @formatter:on --&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
     </context>
   </template>
 </templateSet>
