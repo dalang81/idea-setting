@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="-632" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="后缀" />
+      <item value="SUFFER" />
       <item value="discard" />
       <item value="丢弃" />
       <item value="imminent" />
@@ -54,18 +56,16 @@
       <item value="Scheduling" />
       <item value="调度Scheduling" />
       <item value="调度" />
-      <item value="obtain" />
-      <item value="得到" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="47" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625022130473" />
+    <option name="lastTrimTime" value="1626058341219" />
   </component>
 </application>
