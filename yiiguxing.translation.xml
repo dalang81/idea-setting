@@ -1,11 +1,21 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="1049" />
     <option name="newTranslationDialogY" value="-632" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="commendation" />
+      <item value="accolade" />
+      <item value="braces" />
+      <item value="Braces" />
+      <item value="Curly" />
+      <item value="curly braces" />
+      <item value="花括号" />
+      <item value="大括号" />
+      <item value="大" />
+      <item value="{" />
       <item value="后缀" />
       <item value="SUFFER" />
       <item value="discard" />
@@ -46,26 +56,16 @@
       <item value="门诊" />
       <item value="跑" />
       <item value="最低" />
-      <item value="低" />
-      <item value="地" />
-      <item value="consume" />
-      <item value="Code Address" />
-      <item value="累加" />
-      <item value="Scheduler" />
-      <item value="Schedul" />
-      <item value="Scheduling" />
-      <item value="调度Scheduling" />
-      <item value="调度" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="51" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626058341219" />
+    <option name="lastTrimTime" value="1626658589182" />
   </component>
 </application>
