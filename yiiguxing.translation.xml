@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="-632" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="suffix" />
+      <item value="suffer" />
       <item value="commendation" />
       <item value="accolade" />
       <item value="braces" />
@@ -54,13 +56,11 @@
       <item value="急诊" />
       <item value="住院" />
       <item value="门诊" />
-      <item value="跑" />
-      <item value="最低" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="ENGLISH" value="53" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
