@@ -1,11 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="576" />
+    <option name="newTranslationDialogWidth" value="574" />
     <option name="newTranslationDialogX" value="1049" />
     <option name="newTranslationDialogY" value="-632" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="organization" />
+      <item value="organiz" />
+      <item value="organize" />
+      <item value="orgnize" />
       <item value="suffix" />
       <item value="suffer" />
       <item value="commendation" />
@@ -52,15 +56,11 @@
       <item value="检测平率" />
       <item value="监测" />
       <item value="determine" />
-      <item value="指标库" />
-      <item value="急诊" />
-      <item value="住院" />
-      <item value="门诊" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="54" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
