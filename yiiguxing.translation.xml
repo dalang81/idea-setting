@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="-632" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="中外合资企业" />
+      <item value="股份有限公司" />
+      <item value="有限责任公司" />
       <item value="organziation" />
       <item value="setup" />
       <item value="Organzation" />
@@ -53,14 +56,11 @@
       <item value="就检测" />
       <item value="jiance" />
       <item value="interval" />
-      <item value="inter" />
-      <item value="inter'" />
-      <item value="inte人" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="64" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
