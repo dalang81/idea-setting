@@ -2,8 +2,7 @@
   <component name="Trusted.Paths.Settings">
     <option name="TRUSTED_PATHS">
       <list>
-        <option value="D:/dev/kosmos/dubhe" />
-        <option value="D:/dev/byte/mirror" />
+        <option value="D:/dev/byte" />
       </list>
     </option>
   </component>
