@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1049" />
     <option name="newTranslationDialogY" value="-632" />
     <histories>
+      <item value="[ { &quot;api&quot;: &quot;Test&quot;, &quot;table&quot;: &quot;b_test&quot;, &quot;apiPrefix&quot;: &quot;rest&quot;, &quot;apiName&quot;: &quot;测试&quot;, &quot;apiRemark&quot;: &quot;测试描述&quot;, &quot;generated&quot;: false, &quot;fields&quot;: [ { &quot;name&quot;: &quot;id&quot;, &quot;code&quot;: &quot;id&quot;, &quot;type&quot;: &quot;int&quot;, &quot;pk&quot;: true }, { &quot;name&quot;: &quot;测试编码&quot;, &quot;code&quot;: &quot;testCode&quot;, &quot;bk&quot;: true }, { &quot;name&quot;: &quot;测试名称&quot;, &quot;code&quot;: &quot;testName&quot; }, { &quot;name&quot;: &quot;测试备注&quot;, &quot;code&quot;: &quot;remark&quot;, &quot;required&quot;: false }, { &quot;name&quot;: &quot;测试日期&quot;, &quot;code&quot;: &quot;testDate&quot;, &quot;type&quot;: &quot;date&quot;, &quot;required&quot;: false }, { &quot;name&quot;: &quot;状态&quot;, &quot;code&quot;: &quot;abandon&quot;, &quot;type&quot;: &quot;int&quot;, &quot;required&quot;: false, &quot;sk&quot;: true } ] } ]" />
       <item value="花括号" />
       <item value="{" />
       <item value="Request Param" />
@@ -54,18 +55,17 @@
       <item value="dectet" />
       <item value="检测" />
       <item value="就检测" />
-      <item value="jiance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
+        <entry key="CHINESE" value="66" />
         <entry key="ENGLISH" value="66" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633744103409" />
+    <option name="lastTrimTime" value="1640262434783" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
