@@ -1,4 +1,4 @@
-<templateSet group="kaka">
+<templateSet group="kaka1">
   <template name="on-formatter" value="// @formatter:on" description="on-formatter" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
