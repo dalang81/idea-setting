@@ -67,4 +67,23 @@
   <component name="Cache">
     <option name="lastTrimTime" value="1650680158071" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1674303813275" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="MICROSOFT" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="dependent Class" />
+      <item value="NtpTimeProvider(String ntpHostname, String dependentClass) throws UnknownHostException {" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
+  </component>
 </application>
