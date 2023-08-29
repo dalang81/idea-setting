@@ -1,5 +1,6 @@
 <application>
   <component name="CodeStream">
     <option name="extraCerts" value="" />
+    <option name="teamId" value="64d0404883d4b758914d5121" />
   </component>
 </application>
