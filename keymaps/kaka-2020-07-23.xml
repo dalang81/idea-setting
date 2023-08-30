@@ -17,6 +17,9 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 9" />
   </action>
+  <action id="Bito.OpenBitoPanel">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" second-keystroke="b" />
+  </action>
   <action id="ChangeSplitOrientation">
     <keyboard-shortcut first-keystroke="shift ctrl alt w" second-keystroke="c" />
   </action>
