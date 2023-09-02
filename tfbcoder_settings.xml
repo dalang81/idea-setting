@@ -1,0 +1,3 @@
+<application>
+  <component name="TFBCoderSettings" API_URL="http://95.0.3.16:9090/generate" SAYT_ENABLED="true" TAB_ACTION="ALL" MAX_NEW_TOKENS="1024" />
+</application>
